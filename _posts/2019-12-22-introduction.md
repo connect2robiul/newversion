@@ -34,6 +34,8 @@ Feel free to connect if you know of any opportunities or if you would like to di
  His research interests encompass machine learning, deep learning, human-computer interaction, brain-computer interaction, computer vision, and visualization.
 </p>
 
+## CV 
+- [CV](https://cv-xmdq.onrender.com/view){:target="_blank"}
 
 ## Research Profile 
 
