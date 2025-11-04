@@ -25,7 +25,7 @@ Feel free to connect if you know of any opportunities or if you would like to di
 ## Short bio
 
 
-<p style='text-align: justify;'> ROBIUL ISLAM has successfully completed his aspirantura (research degree) at Innopolis University in Russia. Previously, he earned master's degrees in "System and Software Engineering" from National Research University Higher School of Economics (HSE), Russia, and "Computer Science and Engineering" from the Islamic University of Technology (IUT), Bangladesh. He holds a Bachelor of Science in Computer Science and Engineering from East West University (EWU), Bangladesh.
+<p style='text-align: justify;'> ROBIUL ISLAM has completed his aspirantura (research degree) at Innopolis University in Russia. Previously, he earned master's degrees in "System and Software Engineering" from National Research University Higher School of Economics (HSE), Russia, and "Computer Science and Engineering" from the Islamic University of Technology (IUT), Bangladesh. He holds a Bachelor of Science in Computer Science and Engineering from East West University (EWU), Bangladesh.
 
  Robiul has extensive teaching experience, including roles as a Teaching Assistant for courses such as Logic and Discrete Mathematics, Neuroscience, and Theoretical Computer Science at Innopolis University. He also served as a Co-Teaching Assistant for Discrete Mathematics and conducted lectures on subjects like Structure Programming and Introduction to Computer at Khwaja Yunus Ali University. During his tenure at HSE, Robiul was involved as a Research Assistant at the Laboratory for Models and Methods of Computational Pragmatics.
 
@@ -56,6 +56,7 @@ Feel free to connect if you know of any opportunities or if you would like to di
 
 - [Telegram](https://t.me/connect2robiulchannel){:target="_blank"}
 - [gitHub](https://github.com/connect2robiul){:target="_blank"}
+- [gitLab](https://gitlab.com/connect2robiul){:target="_blank"}
 - [twitter](https://twitter.com/connect2robiul){:target="_blank"}
 - [linkedin](https://www.linkedin.com/in/connect2robiul/){:target="_blank"}
 - [blog / medium](https://medium.com/@connect2robiul){:target="_blank"}
