@@ -36,6 +36,7 @@ Feel free to connect if you know of any opportunities or if you would like to di
 
 ## CV 
 - [CV](https://cv-xmdq.onrender.com/view){:target="_blank"}
+- [CV-static](https://cv-simple-607bda.gitlab.io/){:target="_blank"}
 
 ## Research Profile 
 
