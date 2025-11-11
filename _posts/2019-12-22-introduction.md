@@ -44,11 +44,12 @@ Feel free to connect if you know of any opportunities or if you would like to di
 - [Web of Science ResearcherID](https://publons.com/researcher/3707219/robiul-islam/){:target="_blank"}
 - [semantic scholar](https://www.semanticscholar.org/author/Robiul-Islam/51314321){:target="_blank"}
 - [orchid](https://orcid.org/0000-0002-3704-8409){:target="_blank"}
-- [microsoft academic](https://academic.microsoft.com/profile/j09i12g8-5355-4889-8e5g-ehj5i2h080e0/RobiulIslam/institutions?pi=1){:target="_blank"}
+- [kaggle](https://www.kaggle.com/connect2robiul){:target="_blank"}
 - [researchgate](https://www.researchgate.net/profile/Robiul_Islam){:target="_blank"}
 - [dblp](https://dblp.uni-trier.de/pid/289/8477.html){:target="_blank"} 
 - arXiv submission
     + [Evolutionary Algorithm for Graph Coloring Problem](http://arxiv.org/abs/2111.09743){:target="_blank"}
+    + [Exploring the Relationship between Brain Hemisphere States and Frequency Bands through Deep Learning Optimization Techniques](https://arxiv.org/pdf/2509.14078) {:target="_blank"}
   
 
 
