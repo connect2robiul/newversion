@@ -49,7 +49,7 @@ Feel free to connect if you know of any opportunities or if you would like to di
 - [dblp](https://dblp.uni-trier.de/pid/289/8477.html){:target="_blank"} 
 - arXiv submission
     + [Evolutionary Algorithm for Graph Coloring Problem](http://arxiv.org/abs/2111.09743){:target="_blank"}
-    + [Exploring the Relationship between Brain Hemisphere States and Frequency Bands through Deep Learning Optimization Techniques](https://arxiv.org/pdf/2509.14078}
+    + [Exploring the Relationship between Brain Hemisphere States and Frequency Bands through Deep Learning Optimization Techniques](https://arxiv.org/pdf/2509.14078){:target="_blank"}
   
 
 
