@@ -57,9 +57,9 @@ Feel free to connect if you know of any opportunities or if you would like to di
 ## Social Connectivity 
 
 - [Telegram](https://t.me/connect2robiulchannel){:target="_blank"}
+- [Colab](https://colab.ws/researchers/R-3F937-0FE1E-WS26B){:target="_blank"}
 - [gitHub](https://github.com/connect2robiul){:target="_blank"}
 - [gitLab](https://gitlab.com/connect2robiul){:target="_blank"}
-- [twitter](https://twitter.com/connect2robiul){:target="_blank"}
 - [linkedin](https://www.linkedin.com/in/connect2robiul/){:target="_blank"}
 - [blog / medium](https://medium.com/@connect2robiul){:target="_blank"}
 - [quora](https://www.quora.com/profile/Robiul-Islam-1){:target="_blank"}
