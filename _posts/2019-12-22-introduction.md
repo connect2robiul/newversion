@@ -48,6 +48,7 @@ Feel free to connect if you know of any opportunities or if you would like to di
 - [researchgate](https://www.researchgate.net/profile/Robiul_Islam){:target="_blank"}
 - [dblp](https://dblp.uni-trier.de/pid/289/8477.html){:target="_blank"}
 - [openreview](https://openreview.net/profile?id=~Robiul_Islam2){:target="_blank"}
+- [Colab](https://colab.ws/researchers/R-3F937-0FE1E-WS26B){:target="_blank"}
 - arXiv submission
     + [Evolutionary Algorithm for Graph Coloring Problem](http://arxiv.org/abs/2111.09743){:target="_blank"}
     + [Exploring the Relationship between Brain Hemisphere States and Frequency Bands through Deep Learning Optimization Techniques](https://arxiv.org/pdf/2509.14078){:target="_blank"}
@@ -57,7 +58,6 @@ Feel free to connect if you know of any opportunities or if you would like to di
 ## Social Connectivity 
 
 - [Telegram](https://t.me/connect2robiulchannel){:target="_blank"}
-- [Colab](https://colab.ws/researchers/R-3F937-0FE1E-WS26B){:target="_blank"}
 - [gitHub](https://github.com/connect2robiul){:target="_blank"}
 - [gitLab](https://gitlab.com/connect2robiul){:target="_blank"}
 - [linkedin](https://www.linkedin.com/in/connect2robiul/){:target="_blank"}
