@@ -12,7 +12,6 @@ title: Robiul Islam
 
 
 ## CV 
-- [CV](https://cv-xmdq.onrender.com/view){:target="_blank"}
 - [CV-static](https://cv-simple-607bda.gitlab.io/){:target="_blank"}
 
 ## Research Profile 
