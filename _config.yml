@@ -9,8 +9,8 @@ timezone: Europe/Moscow
 
 # Setup
 title:            Robiul Islam
-tagline:          'Ph.D. studen'
-description:      'Ph.D. student at <a href="https://innopolis.university/en/" target="_blank">Innopolis University</a> . Alumni of <a href="https://www.hse.ru/en/" target="_blank">Higher School of Economics</a>, <a href="https://www.iutoic-dhaka.edu/" target="_blank">Islamic University of Technology</a>, <a href="https://www.ewubd.edu/" target="_blank"> East West University</a>'
+tagline:          
+description:      
 url:              
 baseurl:          /newversion/
 markdown: kramdown 
