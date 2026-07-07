@@ -5,7 +5,7 @@ title: About Me
 
 ## 🐛 About Me 
 
-Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have a lot of wish lists, and I am too lazy to execute or don’t find any opportunity to achieve. And most importantly, I am a happy Single Man because of «Hetero- Mono - Sapio - Demi» and trying to do something productive. I am more like a gossiping person, and to make suitable gossip, just message me on Slowly have ID RP87LX or email me at connect2robiul@pm.me for random discussion.   Also, you can hang out with me fill up this form [click](https://forms.gle/9ooncjacUmJp8DA96).  Also [here](https://tinder.com/@contact2robiul){:target="_blank"}
+Hello Internet, I am Robiul from Bangladesh. I have a lot of wish lists, and I am too lazy to execute them or don’t find any opportunity to achieve them. And most importantly, I am a happy Single Man because of «Hetero- Mono - Sapio - Demi» and trying to do something productive. I am more like a gossiping person, and to make suitable gossip, just message me on Slowly with ID RP87LX or email me at connect2robiul@pm.me for random discussion.
 
 ## 💙 The 5 love languages profile result (Singles Edition)
 
@@ -37,7 +37,7 @@ Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have
 
 
 ## 📚 Self publish Book 
-+ [Business Idea:Complex Networks Analysis for Productivity Optimization in Organizations](https://www.amazon.com/dp/B08RWHXHMQ/ref=sr_1_1?dchild=1&qid=1609533261&refinements=p_27%3ARobiul+Islam&s=digital-text&sr=1-1&text=Robiul+Islam) 
++ [Business Idea: Complex Networks Analysis for Productivity Optimization in Organizations](https://www.amazon.com/dp/B08RWHXHMQ/ref=sr_1_1?dchild=1&qid=1609533261&refinements=p_27%3ARobiul+Islam&s=digital-text&sr=1-1&text=Robiul+Islam) 
 + [How to Motivate Students while teaching via Cognitive Map](https://www.amazon.com/Motivate-Students-while-teaching-Cognitive-ebook/dp/B08RP93Q6J/ref=sr_1_2?dchild=1&qid=1609533261&refinements=p_27%3ARobiul+Islam&s=digital-text&sr=1-2&text=Robiul+Islam) 
 + [Poem by ChatGPT](https://www.amazon.com/dp/B0BQXYK5NY/)
 
@@ -53,17 +53,17 @@ Hello Internet, I am Robiul living in Innopolis, Russia, from Bangladesh. I have
   
   + Ⓜ️ **Visiting City** 
     - Hyderabad,  India
-    - Delhi,India (1 day)
+    - Delhi, India (1 day)
     - Pokhara, Nepal
     - Kuala Lumpur, Malaysia
     - Saint Petersburg, Russia
     - Samara, Russia 
     - İstanbul, Turkey 
     - Cheboksary, Russia (1 day)
-    - Makhachkala , Russia 
-    - Yekaterinburg , Russia 
+    - Makhachkala, Russia 
+    - Yekaterinburg, Russia 
     - Kolomna, Russia (1 day)
-    - Murmansk , Russia 
+    - Murmansk, Russia 
     - Yoshkar-Ola, Russia (1 day)
   + 🏠 **Living Place**
     - Dhaka (7y)
